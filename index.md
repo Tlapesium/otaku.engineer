@@ -1,3 +1,3 @@
-[ライブラリ](https://tlapesium.github.io/cpp-lib/)
+[ライブラリ](https://otaku.engineer/cpp-lib/)
 
-[オセロ](https://tlapesium.github.io/reversi/)
+[オセロ](https://otaku.engineer/reversi/)
