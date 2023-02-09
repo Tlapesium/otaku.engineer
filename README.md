@@ -1,2 +1,0 @@
-# Otaku Engineer
-Otaku Engineer
