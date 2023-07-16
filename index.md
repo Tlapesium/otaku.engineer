@@ -1,5 +1,6 @@
 # Tlapesium's Website
 
-[ライブラリ](https://otaku.engineer/cpp-lib/)
+[ライブラリ](https://tlapesium.github.io/cpp-lib/)
 
-[オセロ](https://otaku.engineer/reversi/)
+[オセロ](https://tlapesium.github.io/reversi/)
+
